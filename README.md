@@ -33,7 +33,7 @@ This project is a **Flashcard System** built using **Python**, designed to help 
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/your-username/flashcard-system.git
-````
+```
 
 2. **Navigate to the project directory:**
 
@@ -47,7 +47,6 @@ This project is a **Flashcard System** built using **Python**, designed to help 
    python main.py
    ```
 
----
 
 
 ## 👥 Project Contributors
@@ -65,4 +64,3 @@ This project is a **Flashcard System** built using **Python**, designed to help 
 * **College:** JNTU-GV, Vizianagaram
 * **Year:** 3rd Year B.Tech
 
----
